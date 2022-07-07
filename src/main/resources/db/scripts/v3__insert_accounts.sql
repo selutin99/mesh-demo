@@ -1,0 +1,5 @@
+INSERT INTO "account" VALUES
+(1, 1, NULL, 100.0);
+
+INSERT INTO "account" VALUES
+(2, 2, NULL, 200.0);

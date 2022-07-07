@@ -1,0 +1,8 @@
+INSERT INTO "phone_data" VALUES
+(1, 1, '79207865432');
+
+INSERT INTO "phone_data" VALUES
+(2, 1, '79212835447');
+
+INSERT INTO "phone_data" VALUES
+(3, 2, '79271414102');

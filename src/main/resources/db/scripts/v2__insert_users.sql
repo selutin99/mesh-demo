@@ -1,0 +1,5 @@
+INSERT INTO "user" VALUES
+(1, 'James', '1993-01-05', '$2a$10$ar2ZZOXMzrmf7mIWt/Hu0.FQM3Mf8D3aG1YwY10nnmM8oCvMEiYpG');
+
+INSERT INTO "user" VALUES
+(2, 'Ivan', '1999-07-14', '$2a$10$ar2ZZOXMzrmf7mIWt/Hu0.FQM3Mf8D3aG1YwY10nnmM8oCvMEiYpG');
